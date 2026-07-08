@@ -1,0 +1,9 @@
+sinal = input("Digite o sinal")
+
+if sinal == "vemelho":
+    print("PARE")
+elif sinal == "amarelo":
+    print("ATENCAO")
+else:
+    print(SIGA)
+    
